@@ -1,6 +1,8 @@
 # puzzle-H5
 
 拼图游戏
+![alt text](微信图片_20241231131626.png)
+![alt text](微信图片_20241231131631.png)
 
 # Vue 3 + Vite
 
